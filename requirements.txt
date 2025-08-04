@@ -1,3 +1,5 @@
 torch
 torchaudio
 ipykernel
+k2 @https://huggingface.co/csukuangfj/k2/resolve/main/windows-cpu/k2-1.24.4.dev20250714+cpu.torch2.7.1-cp312-cp312-win_amd64.whl
+lhotse @git+https://github.com/lhotse-speech/lhotse
